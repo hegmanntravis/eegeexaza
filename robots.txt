@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eezoosh.fault.systems/sitemap.xml
